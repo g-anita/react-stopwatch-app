@@ -1,0 +1,31 @@
+.App {
+  height: 100%;
+  padding: 20px;
+  text-align: center;
+  background-color: #282828;
+}
+
+.stopwatch_display {
+  padding: 20px;
+  margin: 10px;
+  font-size: 80px;
+  color: #FDECEC;
+}
+
+.btn {
+  outline: none;
+  width: 80px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 50px;
+  margin: 5px;
+  background-color: #D63838;
+  border-color: #D63838;
+  color: #FDECEC;
+}
+
+.btn:hover{
+  background-color:  #E83030;
+  border-color: #E83030;
+  color: white;
+}
